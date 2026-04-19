@@ -1,0 +1,71 @@
+{
+  "schema": "4lnk-designs-v1",
+  "exportedAt": "2026-04-10T07:44:51.304Z",
+  "designs": [
+    {
+      "name": "Baseline",
+      "suspensionType": "triangulated4link",
+      "front": {
+        "upper": {
+          "chassis": {
+            "x": 82,
+            "y": 20,
+            "z": -29
+          },
+          "wheel": {
+            "x": 110,
+            "y": 10,
+            "z": -30
+          }
+        },
+        "lower": {
+          "chassis": {
+            "x": 65,
+            "y": 9,
+            "z": -22
+          },
+          "wheel": {
+            "x": 106,
+            "y": 19,
+            "z": -20
+          }
+        },
+        "upTravel": 20,
+        "downTravel": -20
+      },
+      "rear": {
+        "upper": {
+          "chassis": {
+            "x": 25.5,
+            "y": 20,
+            "z": -29
+          },
+          "wheel": {
+            "x": 0,
+            "y": 10,
+            "z": -30
+          }
+        },
+        "lower": {
+          "chassis": {
+            "x": 40,
+            "y": 13,
+            "z": -22
+          },
+          "wheel": {
+            "x": 4,
+            "y": 19,
+            "z": -19.5
+          }
+        },
+        "upTravel": 20,
+        "downTravel": -20
+      },
+      "cgHeight": -34.71,
+      "wheelbase": 110,
+      "frontBrakeBias": 70,
+      "frontDriveBias": 50,
+      "tireRollingRadius": 19
+    }
+  ]
+}
